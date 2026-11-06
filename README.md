@@ -1,57 +1,65 @@
-<h1 align="center">Faruk Sardar</h1>
-<p align="center"><b>Full-stack developer</b> building fast, accessible web apps with Next.js, TypeScript and Node.<br/>Open to freelance projects and full-time roles.</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Faruk%20Sardar&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full-stack%20developer%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Node&descSize=20&descAlignY=60&descColor=cbd5e1" alt="Faruk Sardar, full-stack developer" />
 
 <p align="center">
-  <a href="https://faruksardar.com">Website & Blog</a> ·
-  <a href="https://faruksardar.com">Hire me</a> ·
-  <a href="https://github.com/thefaruksardar?tab=repositories">Repositories</a>
+  I build fast, accessible, SEO-ready web apps, from polished interfaces to the APIs behind them.<br/>
+  <b>Open to freelance projects and full-time roles.</b>
+</p>
+
+<p align="center">
+  <a href="https://faruksardar.com"><img src="https://img.shields.io/badge/Portfolio-faruksardar.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://faruksardar.com"><img src="https://img.shields.io/badge/Hire%20me-Let's%20talk-16a34a?style=for-the-badge&logo=maildotru&logoColor=white" alt="Hire me" /></a>
+  <a href="https://faruksardar.com"><img src="https://img.shields.io/badge/Blog-Dev%20articles-0f172a?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
 </p>
 
 ---
 
 ## What I do
 
-- **Product frontends** with Next.js (App Router, Server Components), React, Tailwind: responsive, accessible, SEO-aware.
-- **Backends and APIs** with Node, Prisma and SQL: validated inputs, proper auth, sane error handling.
-- **Shipping**: I take features from spec to production, and write about what I learn at [faruksardar.com](https://faruksardar.com).
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Frontend</h3>
+      Responsive, accessible interfaces with Next.js App Router, Server Components and Tailwind. Clean UI, solid UX, fast loads.
+    </td>
+    <td width="33%" valign="top">
+      <h3>Backend</h3>
+      Node.js APIs with validated inputs, proper auth, sensible error handling and well-designed database schemas.
+    </td>
+    <td width="33%" valign="top">
+      <h3>Ship it</h3>
+      Spec to production: SEO, performance, caching and deployment, with maintainable code that teams can build on.
+    </td>
+  </tr>
+</table>
 
-## Skills
+## Tech stack
 
-| Area | Technologies |
-| --- | --- |
-| **Frontend** | React, Next.js (App Router, Server Components), TypeScript, Tailwind CSS, Framer Motion, semantic HTML, accessibility |
-| **Backend** | Node.js, REST APIs, Prisma, SQL, authentication and authorization, input validation |
-| **Data viz** | D3.js, interactive charts |
-| **Content and SEO** | Headless CMS (Sanity), technical writing, on-page SEO, performance |
-| **Tooling** | Git and GitHub, Linux, npm/pnpm |
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,framer&perline=8&theme=dark">
+    <img width="640" src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,framer&perline=8&theme=light" alt="Next.js, React, TypeScript, JavaScript, Tailwind, HTML, CSS, Framer Motion" />
+  </picture>
+</p>
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=white&style=flat-square)
-![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?logo=d3dotjs&logoColor=white&style=flat-square)
+<h3 align="center">Backend and data</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb&perline=5&theme=dark">
+    <img width="400" src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb&perline=5&theme=light" alt="Node.js, Express, Prisma, PostgreSQL, MongoDB" />
+  </picture>
+</p>
 
-## Experience
-
-**[Job title] · [Company]** · [Mon YYYY] – Present
-- [Shipped X that improved Y by Z%]
-- [Owned feature/system end to end using Next.js, TypeScript, ...]
-
-**[Job title] · [Company or Freelance]** · [Mon YYYY] – [Mon YYYY]
-- [Impact bullet with a number]
-- [Impact bullet with a number]
-
-**Independent** · [YYYY] – Present
-- Run [faruksardar.com](https://faruksardar.com), a developer blog on Next.js, React, Tailwind and TypeScript.
-- [Other client or product work]
+<h3 align="center">Tooling and design</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,linux,vercel,figma,d3&perline=6&theme=dark">
+    <img width="480" src="https://skillicons.dev/icons?i=git,github,linux,vercel,figma,d3&perline=6&theme=light" alt="Git, GitHub, Linux, Vercel, Figma, D3.js" />
+  </picture>
+</p>
 
 ## Writing
 
-I publish Next.js, React, Tailwind and TypeScript tutorials at **[faruksardar.com](https://faruksardar.com)**.
+I publish practical Next.js, React, Tailwind and TypeScript tutorials at **[faruksardar.com](https://faruksardar.com)**.
 
-## Work with me
-
-Need a developer who ships clean, maintainable code? Reach out via **[faruksardar.com](https://faruksardar.com)**.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563eb,100:0f172a" alt="" />
