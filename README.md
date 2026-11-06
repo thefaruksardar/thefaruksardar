@@ -32,31 +32,15 @@
   </tr>
 </table>
 
-## Tech stack
+## Skills
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,framer&perline=8&theme=dark">
-    <img width="640" src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,framer&perline=8&theme=light" alt="Next.js, React, TypeScript, JavaScript, Tailwind, HTML, CSS, Framer Motion" />
-  </picture>
-</p>
-
-<h3 align="center">Backend and data</h3>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb&perline=5&theme=dark">
-    <img width="400" src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb&perline=5&theme=light" alt="Node.js, Express, Prisma, PostgreSQL, MongoDB" />
-  </picture>
-</p>
-
-<h3 align="center">Tooling and design</h3>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,linux,vercel,figma,d3&perline=6&theme=dark">
-    <img width="480" src="https://skillicons.dev/icons?i=git,github,linux,vercel,figma,d3&perline=6&theme=light" alt="Git, GitHub, Linux, Vercel, Figma, D3.js" />
-  </picture>
-</p>
+| Area | Skills |
+| --- | --- |
+| **Frontend** | <img src="https://api.iconify.design/simple-icons:react.svg?color=%2361DAFB" width="20" height="20" align="absmiddle" alt="" />&nbsp;React &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%238b949e" width="20" height="20" align="absmiddle" alt="" />&nbsp;Next.js &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:typescript.svg?color=%233178C6" width="20" height="20" align="absmiddle" alt="" />&nbsp;TypeScript &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:tailwindcss.svg?color=%2306B6D4" width="20" height="20" align="absmiddle" alt="" />&nbsp;Tailwind CSS &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:framer.svg?color=%230055FF" width="20" height="20" align="absmiddle" alt="" />&nbsp;Framer Motion &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:html5.svg?color=%23E34F26" width="20" height="20" align="absmiddle" alt="" />&nbsp;Semantic HTML &nbsp;&nbsp; <img src="https://api.iconify.design/lucide:accessibility.svg?color=%2360a5fa" width="20" height="20" align="absmiddle" alt="" />&nbsp;Accessibility |
+| **Backend** | <img src="https://api.iconify.design/simple-icons:nodedotjs.svg?color=%23339933" width="20" height="20" align="absmiddle" alt="" />&nbsp;Node.js &nbsp;&nbsp; <img src="https://api.iconify.design/lucide:webhook.svg?color=%2360a5fa" width="20" height="20" align="absmiddle" alt="" />&nbsp;REST APIs &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:prisma.svg?color=%238b949e" width="20" height="20" align="absmiddle" alt="" />&nbsp;Prisma &nbsp;&nbsp; <img src="https://api.iconify.design/lucide:database.svg?color=%2360a5fa" width="20" height="20" align="absmiddle" alt="" />&nbsp;SQL &nbsp;&nbsp; <img src="https://api.iconify.design/lucide:lock-keyhole.svg?color=%2360a5fa" width="20" height="20" align="absmiddle" alt="" />&nbsp;Auth &nbsp;&nbsp; <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2360a5fa" width="20" height="20" align="absmiddle" alt="" />&nbsp;Input validation |
+| **Data viz** | <img src="https://api.iconify.design/simple-icons:d3dotjs.svg?color=%23F9A03C" width="20" height="20" align="absmiddle" alt="" />&nbsp;D3.js &nbsp;&nbsp; <img src="https://api.iconify.design/lucide:chart-column.svg?color=%2360a5fa" width="20" height="20" align="absmiddle" alt="" />&nbsp;Interactive charts |
+| **Content & SEO** | <img src="https://api.iconify.design/simple-icons:sanity.svg?color=%23F03E2F" width="20" height="20" align="absmiddle" alt="" />&nbsp;Sanity CMS &nbsp;&nbsp; <img src="https://api.iconify.design/lucide:pen-line.svg?color=%2360a5fa" width="20" height="20" align="absmiddle" alt="" />&nbsp;Technical writing &nbsp;&nbsp; <img src="https://api.iconify.design/lucide:search.svg?color=%2360a5fa" width="20" height="20" align="absmiddle" alt="" />&nbsp;On-page SEO &nbsp;&nbsp; <img src="https://api.iconify.design/lucide:gauge.svg?color=%2360a5fa" width="20" height="20" align="absmiddle" alt="" />&nbsp;Performance |
+| **Tooling** | <img src="https://api.iconify.design/simple-icons:git.svg?color=%23F05032" width="20" height="20" align="absmiddle" alt="" />&nbsp;Git &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:github.svg?color=%238b949e" width="20" height="20" align="absmiddle" alt="" />&nbsp;GitHub &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:linux.svg?color=%23FCC624" width="20" height="20" align="absmiddle" alt="" />&nbsp;Linux &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:npm.svg?color=%23CB3837" width="20" height="20" align="absmiddle" alt="" />&nbsp;npm &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:pnpm.svg?color=%23F69220" width="20" height="20" align="absmiddle" alt="" />&nbsp;pnpm |
 
 ## Writing
 
